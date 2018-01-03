@@ -1,0 +1,11 @@
+//First Go Program
+
+package main
+
+
+import "fmt"
+
+func main() {
+    fmt.Println("hello world")
+}
+//end of program
